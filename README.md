@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **problem solving skills,**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms,React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arrryan05](https://github.com/arrryan05)
 
