@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Mishra</h1>
-<h3 align="center">A passionate undergrad students, who's always enthusiastic about learning and gaining experiences</h3>
+<h3 align="center">A passionate Full Stack Developer, who's always enthusiastic about learning and gaining experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrryan05&label=Profile%20views&color=0e75b6&style=flat" alt="arrryan05" /> </p>
-
-- 🔭 I’m currently working on **problem solving skills,**
-
-- 🌱 I’m currently learning **Data Structures & Algorithms,React Js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/arrryan05](https://github.com/arrryan05)
 
 - 📫 How to reach me **mishra2001aryan@gmail.com**
 
